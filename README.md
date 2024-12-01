@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Arthur Silva e sou um Técnico de Sistemas e Desenvolvedor, do Brasil.</p>
+<p align="left">Meu nome é Arthur Silva Desenvolvedor de Sistemas</p>
 
 ###
 
