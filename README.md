@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando soluções (e bugs ocasionais) desde 2019<br>📚 Atualmente aprendendo tecnologias modernas para desenvolvimento web e mobile<br>🎯 Objetivos: Me especializar em sistemas de automação e desenvolvimento full-stack<br>🎲 Curiosidade: Sou apaixonado por aprender algo novo todos os dias!</p>
+<p align="left">✨ Criador de soluções<br>📚 Atualmente aprendendo tecnologias modernas para desenvolvimento web e mobile<br>🎯 Objetivos: Me especializar em inteligência artificial e desenvolvimento full-stack<br>🎲 Curiosidade: Sou apaixonado por aprender algo novo todos os dias!</p>
 
 ###
 
