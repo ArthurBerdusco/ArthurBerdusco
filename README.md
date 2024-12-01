@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://litslink.com/wp-content/uploads/2021/04/Web-Application-Components-Models.png"  />
 
 ###
 
